@@ -1,5 +1,5 @@
 let form = document.querySelector("form");
-let ntnSave = document.getElementById("btnSave").style.background="green"
+let ntnSave = document.querySelector("btnSave")
 let fName = document.querySelector("#fullname");
 let phone = document.querySelector("#phone");
 let email = document.querySelector("#email");
